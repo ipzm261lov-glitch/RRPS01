@@ -1,0 +1,6 @@
+{
+    "campus_name": "Uzhhorod Tech Campus",
+    "db_file": "data/campus_db.json",
+    "log_file": "data/security_audit.log",
+    "max_daily_entries": 5
+}
